@@ -1,3 +1,4 @@
+#alto kk
 #creando un contador que va a ir sumandose
 contador=0
 
